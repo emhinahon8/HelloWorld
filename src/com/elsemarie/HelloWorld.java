@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class HelloWorld {
 
 	/**
-	 * Main method
+	 * Main method :)
 	 * @param args Command line arguments
 	 */
 	
